@@ -6,3 +6,6 @@ Topics covered by labs:
 3. Display 16-color, 256-color and True Color BMP files using the wingraph.h library.
 4. Write a program to insert a logo into BMP files. (Create the logo in a separate file).
 5. Display a 256-color PCX file using the wingraph.h library.
+
+Course work topic:
+Convert a 256-color BMP file to a 16-color BMP file.
